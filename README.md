@@ -16,6 +16,7 @@ I am a game designer with 8 years of professional experience building systems, a
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Cloud-Based Active Directory Setup and User Management | N/A|
 | Cloud Security Risk Assessment & GRC Simulation (Azure) | <a href="https://docs.google.com/document/d/1jlO1b45bxbX0pDBhID3Wz_E9NbRJ45NeOY7thrToNwI/edit?usp=sharing">GRC Assessment</a>|
+| Linux Log File Analysis, Automation, and SIEM Visualization | <a href="https://docs.google.com/document/d/1K0sbB7RnzIPfSMWNhD21wsneggJodhvc15VFL6WFxvY/edit?usp=sharing">Linux Log Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
