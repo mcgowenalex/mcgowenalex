@@ -18,6 +18,7 @@ I am a game designer with 8 years of professional experience building systems, a
 | Cloud Security Risk Assessment & GRC Simulation (Azure) | <a href="https://docs.google.com/document/d/1jlO1b45bxbX0pDBhID3Wz_E9NbRJ45NeOY7thrToNwI/edit?usp=sharing">GRC Assessment</a>|
 | Linux Log File Analysis, Automation, and SIEM Visualization | <a href="https://docs.google.com/document/d/1K0sbB7RnzIPfSMWNhD21wsneggJodhvc15VFL6WFxvY/edit?usp=sharing">Linux Log Lab</a>|
 | Network Scanning and Host Enumeration with Nmap | <a href="https://docs.google.com/document/d/15m6XbneNixZkR9GAOG6K3UdL4nP2G11nYlQ2E9_XB_s/edit?usp=sharing">Nmap Lab</a>|
+| Web Application Scanning with OWASP ZAP (AppSec Project) | <a href="https://docs.google.com/document/d/13tpG2yzq40dFyJUKF0yqoCvYN-sWRdpXLenqVfuh4DA/edit?usp=sharing">AppSec Project</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
