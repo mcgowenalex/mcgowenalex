@@ -12,7 +12,6 @@ I am a game designer with 8 years of professional experience building systems, a
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-
 | Cloud-Based Active Directory Setup and User Management | N/A|
 | Cloud Security Risk Assessment & GRC Simulation (Azure) | <a href="https://docs.google.com/document/d/1jlO1b45bxbX0pDBhID3Wz_E9NbRJ45NeOY7thrToNwI/edit?usp=sharing">GRC Assessment</a>|
 | Linux Log File Analysis, Automation, and SIEM Visualization | <a href="https://docs.google.com/document/d/1K0sbB7RnzIPfSMWNhD21wsneggJodhvc15VFL6WFxvY/edit?usp=sharing">Linux Log Lab</a>|
