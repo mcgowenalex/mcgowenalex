@@ -1,7 +1,7 @@
 # Hello, I'm Alex
 <a href="https://www.linkedin.com/in/mcgowenalex"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a game designer with 8 years of professional experience building systems, analyzing data, and shipping live products. After years of solving complex problems and collaborating across teams to deliver secure and scalable experiences, I am transitioning into cybersecurity. I am actively developing my skills through hands on labs, security research, and practical training, with a focus on threat detection, incident response, and defensive security operations. I am specifically pursuing opportunities within a Security Operations Center as a Tier 1 Analyst or any entry level role where I can contribute immediately, continue learning, and build a strong foundation in security operations.
+I am a game developer with 8 years of professional experience building systems, analyzing data, and shipping live products. After years of solving complex problems and collaborating across teams to deliver secure and scalable experiences, I am transitioning into cybersecurity. I am actively developing my skills through hands on labs, security research, and practical training, with a focus on threat detection, incident response, and defensive security operations. I am specifically pursuing opportunities within a Security Operations Center as a Tier 1 Analyst or any entry level role where I can contribute immediately, continue learning, and build a strong foundation in security operations.
 
 ## Skills
 
