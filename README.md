@@ -16,7 +16,7 @@ I am a game developer with 8 years of professional experience building systems, 
 
 ## Tools
 
-### Network
+### Network Security Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-000000?&style=for-the-badge&logo=zeek&logoColor=white" />
@@ -25,22 +25,43 @@ I am a game developer with 8 years of professional experience building systems, 
     <img src="https://img.shields.io/badge/-Tcpdump-4B8BBE?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM & Log Analysis
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Brim-2F2F2F?&style=for-the-badge&logo=brim&logoColor=white" />
 </div>
 
+### Endpoint Security & Forensics
+<div>
+<img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autopsy-4B275F?&style=for-the-badge&logo=autopsy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redline-CC0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-KAPE-222222?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Velociraptor-2C3E50?&style=for-the-badge&logoColor=white" />
+<div>
+
+### Threat Intelligence & Analysis
+<div>
+<img src="https://img.shields.io/badge/-MISP-2F2F2F?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCTI-3A4E8C?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-YARA-FF6F00?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Urlscan.io-1E90FF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-MalwareBazaar-CC0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
+<div>
+    
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-
+## Further Learning
+<div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</div>
 <!--
 **mcgowenalex/mcgowenalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
