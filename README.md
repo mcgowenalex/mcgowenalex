@@ -7,7 +7,7 @@ I am a game developer with 8 years of professional experience building systems, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Analyst L1 Training and Simulation (SIEM, Log Analysis, Network Traffic Monitoring, Incident Response) | <a href="https://google.com">TryHackMe</a>|
+| SOC Analyst L1 Training and Simulation (SIEM, Log Analysis, Network Traffic Monitoring, Incident Response) | <a href="https://tryhackme.com/path/outline/soclevel1">TryHackMe</a>|
 | Cloud-Based Active Directory Setup and User Management | N/A|
 | Cloud Security Risk Assessment & GRC Simulation (Azure) | <a href="https://docs.google.com/document/d/1jlO1b45bxbX0pDBhID3Wz_E9NbRJ45NeOY7thrToNwI/edit?usp=sharing">GRC Assessment</a>|
 | Linux Log File Analysis, Automation, and SIEM Visualization | <a href="https://docs.google.com/document/d/1K0sbB7RnzIPfSMWNhD21wsneggJodhvc15VFL6WFxvY/edit?usp=sharing">Linux Log Lab</a>|
@@ -15,19 +15,14 @@ I am a game developer with 8 years of professional experience building systems, 
 | Web Application Scanning with OWASP ZAP | <a href="https://docs.google.com/document/d/13tpG2yzq40dFyJUKF0yqoCvYN-sWRdpXLenqVfuh4DA/edit?usp=sharing">AppSec Project</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-000000?&style=for-the-badge&logo=zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TShark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-4B8BBE?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ### SIEM
@@ -37,7 +32,6 @@ I am a game developer with 8 years of professional experience building systems, 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
